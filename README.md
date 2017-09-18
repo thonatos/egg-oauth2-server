@@ -25,6 +25,8 @@ Description here.
 -->
 [Chinese Example | 中文样例教程](https://cnodejs.org/topic/592b2aedba8670562a40f60b)
 
+> 时间紧张，Fork & Publish 只为个人使用，请支持原版。。
+
 ## Install
 
 ```bash

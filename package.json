@@ -1,6 +1,6 @@
 {
-  "name": "egg-oauth2-server",
-  "version": "2.0.1",
+  "name": "egg-oauth2-server-impl",
+  "version": "2.0.2",
   "description": "koa-oauth-server(node-oauth2-server) plugin for egg",
   "eggPlugin": {
     "name": "oAuth2Server"
@@ -54,12 +54,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azard/egg-oauth2-server.git"
+    "url": "git+https://github.com/thonatos/egg-oauth2-server.git"
   },
   "bugs": {
-    "url": "https://github.com/Azard/egg-oauth2-server/issues"
+    "url": "https://github.com/thonatos/egg-oauth2-server/issues"
   },
-  "homepage": "https://github.com/Azard/egg-oauth2-server#readme",
-  "author": "Azard",
+  "homepage": "https://github.com/thonatos/egg-oauth2-server#readme",
+  "author": "Thonatos.Yang",
   "license": "MIT"
 }
